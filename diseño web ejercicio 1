@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Perfil</title>
+</head>
+<body>
+    <img src="/img/imagenperfil.jpg" alt="Imagen de Perfil">
+   <div>
+    <ul>
+        <li>Nombre: Braian Leonel</li>
+        <li>Apellido: Carrizo</li>
+        <li>Edad: 31 </li>
+        <li>Email: braian.carrizoleo@gmail.com</li>
+    </ul>
+    <p>Soy una persona dedicada, responsable muy activa, con ganas de progresar.</p>
+</div>
+    <form action="contacto">
+        <label for="nombre">Nombre</label>
+        <input type="text" id="Nombre" placeholder="Escribi tu nombre aqui">
+        <label for="Apellido">Apellido</label>
+        <input type="text" id="Apellido" placeholder="Escribi tu apellido aqui">
+        <label for="Celular">celular</label>
+        <input type="number" id="celular" placeholder="Escribi tu numero de contacto">
+        <input type="button" value="Enviar">
+    </form>
+</body>
+</html>
