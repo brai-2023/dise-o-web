@@ -1,0 +1,43 @@
+<html>
+<head>
+
+</head>
+<body>
+    <h1>Internet</h1>
+    <h2>Contenido</h2>
+    <div>
+        <ol>
+            <li>Principales protocolos</li>
+            <li>Formas de conectarse</li>
+        </ol>
+    </div>
+    <ol>
+        <h2><li>Principales protocolos</li></h2>
+    </ol>
+    <ul>
+        <li>Transmisión de ficheros</li>
+            <ul>
+                <li>FTP</li>
+            </ul>
+        <li>Correo Electronico</li>
+            <ul>
+                <li>IMAP</li>
+                <li>POP</li>
+                <li>SMTP</li>
+            </ul>
+    </ul>
+    <ol start="2">
+        <h2><li>Formas De Conectarse </li></h2>
+    </ol>
+    <p>Red telefonica conmutada <br>   
+    &ensp;&ensp;&ensp;&ensp;La linea telefonica de toda la vida. Para acceder a la wifi es necesario un modem. <br>
+    Red digital de servicios integrados(RDSI). <br>
+    &ensp;&ensp;&ensp;&ensp;Una linea telefonica especial. Para acceder a internet es necesario un modem RDSI. <br>
+    Linea de abonado digital asimetrica(ADSL). <br>
+    &ensp;&ensp;&ensp;&ensp;Se basa en una conversion de linea RTC en una linea de alta velocidad. Para acceder a internet es necesario un modem ADSL. <br>
+    Fibra optica.
+    &ensp;&ensp;&ensp;&ensp;Una linea de fibra optica. Normalmente la fibra optica no llega hasta el usuario final, por lo que el termino mas apropiado es fibra hibrida coaxial.
+    </p>
+
+</body>
+</html>
