@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    <title>Formulario de registro</title>
+</head>
+<body>
+    <h1><b>Formulario de registro</b></h1>
+    <form action="">
+        <label for="nombre">Nombre:</label> <input type="text" placeholder="Ingrese su nombre"><br>
+        <br>
+        <label for="apellido">Apellido::</label> <input type="text" placeholder="Ingrese su Apelido"><br>
+        <br>
+        <label for="">Sexo:</label>
+        <label for="Mujer">Mujer</label><input type="radio" name="Sexo" id="mujer">
+        <label for="Mujer">Hombre</label><input type="radio" name="Sexo" id="Hombre"><br>
+        <br>
+        <label for="Correo">Correo:</label><input type="email" name="Correo" id="Correo"><br>
+        <br>
+        <input type="checkbox" name="" id="deseo"><label for="deseo">Deseo recibir mas info dobre novedades y ofertas</label><br>
+        <input type="checkbox" name="" id="declaro"><label for="declaro">Declaro haber leido todas las condiciones generales del progrma y la normativa de protección de datos</label><br>
+        <br>
+        <input type="button" value="Enviar">
+        
+
+    </form>
+    
+</body>
+</html>
